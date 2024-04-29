@@ -28,10 +28,10 @@ Characteristics
 *Notebooks*
 
 Links to the Jupyter notebooks in your GitHub repository and a description of each notebook's purpose
-- API_ETL.ipynb --
-- Web_Scrape_ETL.ipynb --
-- API_SQL_Analysis.ipynb --
-- Web_Scrape_SQL_Analysis.ipynb --
+- API_ETL.ipynb -- https://github.com/diannebatya/isba4715-project/blob/7bbd0cb7a8e5e2876cb9eaef1786b9f0ee80e2bf/notebooks/API_ETL.ipynb
+- Web_Scrape_ETL.ipynb -- https://github.com/diannebatya/isba4715-project/blob/7bbd0cb7a8e5e2876cb9eaef1786b9f0ee80e2bf/notebooks/Web_Scrape_ETL.ipynb
+- API_SQL_Analysis.ipynb -- https://github.com/diannebatya/isba4715-project/blob/7bbd0cb7a8e5e2876cb9eaef1786b9f0ee80e2bf/notebooks/API_SQL_Analysis.ipynb
+- Web_Scrape_SQL_Analysis.ipynb -- https://github.com/diannebatya/isba4715-project/blob/7bbd0cb7a8e5e2876cb9eaef1786b9f0ee80e2bf/notebooks/Web_Scrape_SQL_Analysis.ipynb
 
 
 *Future Improvements*
